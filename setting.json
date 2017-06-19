@@ -1,0 +1,15 @@
+{
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+    "font_size": 13,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "translate_tabs_to_spaces": true,
+    "tab_size": 4,
+    "trim_automatic_white_space": false,
+    "wrap_width": 80,
+    "default_encoding": "UTF-8",
+    "draw_white_space": "all",
+    "line_numbers": true
+}
