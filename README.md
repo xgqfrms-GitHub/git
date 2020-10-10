@@ -5,17 +5,22 @@
 
 ## git config
 
-
+> git config --global
 
 ```sh
 
 $ git config --global user.name "xgqfrms"
 $ git config --global user.email "xgqfrms@gmail.com"
 
+```
 
-$ git config --global user.name "xgqfrms-gildata"
-$ git config --global user.email "xiagq@gildata.com"
+> git config local
 
+
+```sh
+
+$ git config user.name "xgqfrms"
+$ git config user.email "xgqfrms@gmail.com"
 
 ```
 
